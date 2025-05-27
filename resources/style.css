@@ -1,0 +1,73 @@
+@import url('https: //fonts.googleapis.com/css2?family=Lato: ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+  font-size: 16px;
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  line-height: 27.4333px;
+  color: rgb(87, 87, 87);
+}
+body input,
+body textarea,
+body,
+body button {
+  font-family: Lato, sans-serif;
+}
+blockquote p {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.main {
+  max-width: 700px;
+  margin: 40px auto 0;
+}
+
+.carousel-element img {
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+select,
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"] {
+  font-size: 16px;
+  border-radius: 3px;
+  background-color: rgba(209, 209, 209, 0.22);
+  color: #fbba00;
+  border-color: rgba(255, 255, 255, 0.13);
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  box-shadow : none;
+}
+
+input[type="button"] {
+  background: #fbba00;
+  color: #fff;
+}

@@ -41,20 +41,20 @@ h6 {
 
 select,
 textarea,
-input[type="text"],
-input[type="password"],
-input[type="datetime"],
-input[type="datetime-local"],
-input[type="date"],
-input[type="month"],
-input[type="time"],
-input[type="week"],
-input[type="number"],
-input[type="email"],
-input[type="url"],
-input[type="search"],
-input[type="tel"],
-input[type="color"] {
+input[type='text'],
+input[type='password'],
+input[type='datetime'],
+input[type='datetime-local'],
+input[type='date'],
+input[type='month'],
+input[type='time'],
+input[type='week'],
+input[type='number'],
+input[type='email'],
+input[type='url'],
+input[type='search'],
+input[type='tel'],
+input[type='color'] {
   font-size: 16px;
   border-radius: 3px;
   background-color: rgba(209, 209, 209, 0.22);
@@ -62,12 +62,12 @@ input[type="color"] {
   border-color: rgba(255, 255, 255, 0.13);
 }
 
-input[type="checkbox"],
-input[type="radio"] {
-  box-shadow : none;
+input[type='checkbox'],
+input[type='radio'] {
+  box-shadow: none;
 }
 
-input[type="button"] {
+input[type='button'] {
   background: #fbba00;
   color: #fff;
 }
